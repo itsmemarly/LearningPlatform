@@ -19,14 +19,14 @@ if ( !isset($_POST['username'], $_POST['password']) ) {
 }
 
 // Voorbereiden om te verbinden met SQL.
-if ($stmt = $con->prepare('SELECT id, password FROM accounts WHERE username = ?')) {
+if ($stmt = $con->prepare('SELECT id, password FROM accounts WHERE username = ? OR email = ?')) {
 
     //Binden van parameters
     //s staat voor string
     //i staat voor int
     //b staat voor blob etc.
     //Username is een string dus s
-	$stmt->bind_param('s', $_POST['username']);
+	$stmt->bind_param('ss', $_POST['username'], $_POST['displayName']);
     $stmt->execute();
     // Bewaar het resultaat zodat we in de database kunnen zien of het account bestaat.
     $stmt->store_result();
@@ -43,7 +43,9 @@ if ($stmt = $con->prepare('SELECT id, password FROM accounts WHERE username = ?'
             session_regenerate_id();
             $_SESSION['loggedin'] = TRUE;
             $_SESSION['name'] = $_POST['username'];
+            $_SESSION['display'] = $_POST['displayName'];
             $_SESSION['id'] = $id;
+            
             header("Location: home.php");
          
         } else {

@@ -1,5 +1,5 @@
 <?php
- session_start();
+session_start();
 ?>
 <html>
 <title>MEMBER AREA</title>
@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
 
 <script src="index.js"></script>
+<!-- <script src="authenticate.php"></script> -->
 <script src="logoutScript.js"></script>
 <link rel="stylesheet" href="index.css">
 </html>
@@ -41,12 +42,13 @@ if (!isset($_SESSION['loggedin'])) {
  {
  ?> 
  <div class="alert alert-success">
- Welcome <?php echo $_SESSION["name"]; ?> .If here is no activity till 
+ Welcome <?php echo $_SESSION["display"]; ?> .If here is no activity till 
 10 <strong>Minutes</strong> you will be logged out automatically.
 You've been logged in for <?php time();  ?> now
 Click here to <a href="logout.php" tite="Logout"><button class="btn btn-danger">Logout</button> 
  
  </div>
+
  <?php 
     } 
     else
