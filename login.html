@@ -1,0 +1,20 @@
+<head>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="login.css">
+    <script src="logoutScript.js"></script>
+
+</head>
+<div class="login">
+    <h1>Login</h1>
+    <form action="authenticate.php" method="post">
+        <label for="username">
+            <i class="fa fa-user"></i>
+        </label>
+        <input type="text" name="username" placeholder="Username" id="username" required>
+        <label for="password">
+            <i class="fa fa-lock"></i>
+        </label>
+        <input type="password" name="password" placeholder="Password" id="password" required>
+        <input type="submit" value="Login">
+    </form>
+</div>

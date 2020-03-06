@@ -1,0 +1,39 @@
+/* @media screen and (max-device-width:300px) {
+    body,
+    html {
+        height: 100%;
+        font-family: "Inconsolata", sans-serif;
+    }
+    #text1 {
+        width: auto;
+    }
+    .bgimg {
+        background-position: cover;
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-image: url(images/study.jpeg);
+        min-height: auto;
+    }
+    .menu {
+        display: none;
+        width: auto;
+    }
+} */
+
+body,
+html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-image: url(images/study.jpeg);
+    min-height: 75%;
+}
+
+.menu {
+    display: none;
+}

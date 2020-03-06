@@ -1,0 +1,1045 @@
+{
+    "flashcard": [{
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "你好！",
+            "translation": "Hallo!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "早上好！",
+            "translation": "Goedemorgen!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "晚上好",
+            "translation": "Goedenavond"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "你好吗？",
+            "translation": "Hoe gaat het?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我很好",
+            "translation": "Met mij gaat het goed"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "你吃了吗？",
+            "translation": "Heb je al gegeten?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "吃了",
+            "translation": "Ik heb al gegeten"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "你呢",
+            "translation": "En jij?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "欢迎",
+            "translation": "Welkom"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "很改姓见到你",
+            "translation": "Aangenaam kennis te maken"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "谢谢",
+            "translation": "Dankje / Dankjewel "
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "不客气",
+            "translation": "Geen probleem"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "请",
+            "translation": "Alsjeblieft"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "请问",
+            "translation": "Pardon?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "抱歉",
+            "translation": "Sorry"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "对不起",
+            "translation": "Het spijt me"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "没关系",
+            "translation": "Geen probleem"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "不好意思",
+            "translation": "Excuseer"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "结果一下",
+            "translation": "Excuseer mij alstublieft"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "再见",
+            "translation": "Tot ziens"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "晚安",
+            "translation": "Goede nacht"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "回头见",
+            "translation": "Zie je later!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "祝您有个美好的一天！",
+            "translation": "Fijne dag!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "周末愉快",
+            "translation": "Fijn weekend!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "保持联系",
+            "translation": "In contact blijven"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "一路顺风",
+            "translation": "Fijne reis"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "慢走",
+            "translation": "Zorg goed voor jezelf"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我叫 Marleen，你呢？",
+            "translation": "Mijn naam is Marleen. Hoe heet jij?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "怎么称呼？",
+            "translation": "Wat is je naam?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "请问您贵姓？",
+            "translation": "Wat is je familienaam?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我不会说中文",
+            "translation": "Ik spreek geen Chinees."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "你会说英语吗？",
+            "translation": "Spreek je engels?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我会说一点中文",
+            "translation": "Ik spreek een klein beetje Chinees."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "请说慢一点",
+            "translation": "Wil je wat langzamer spreken alsjeblieft."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "倾泻下来",
+            "translation": "Kun je het alsjeblieft opschrijven?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "请你再说一遍好吗？",
+            "translation": "Kun je het herhalen?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我明白",
+            "translation": "Ik snap het."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我不明白",
+            "translation": "Ik snap het niet."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我不知道",
+            "translation": "Ik weet het niet."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我知道",
+            "translation": "Ik weet het."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "什么意思？",
+            "translation": "Wat bedoel je?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "入口",
+            "translation": "Entree / ingang"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "出口",
+            "translation": "Uitgang"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "紧急出口",
+            "translation": "Nooduitgang "
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "推",
+            "translation": "Duwen"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "拉",
+            "translation": "Trekken"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "厕所",
+            "translation": "Toiletten"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "空的",
+            "translation": "Leeg"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "禁止吸烟",
+            "translation": "Niet roken."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "打折",
+            "translation": "Korting / afgeprijsd\n"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "促销",
+            "translation": "Promotie"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "买一送一",
+            "translation": "Twee halen, een betalen"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "对 ",
+            "translation": "Ja"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "不 ",
+            "translation": "Nee"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "也许吧",
+            "translation": "Misschien"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "请问，厕所在哪里？",
+            "translation": "Pardon, waar is het toilet?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "多少？",
+            "translation": "Hoe veel?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "太贵了",
+            "translation": "Te duur"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "便宜点",
+            "translation": "Maak het goedkoper"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "你是本地人吗？",
+            "translation": "Ben je lokaal?\nKom je hier vandaan?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我从。。。来",
+            "translation": "Ik kom uit ..."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "你经常来着吗",
+            "translation": "Kom je hier vaker?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我会想念你的",
+            "translation": "Ik mis je"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我爱你",
+            "translation": "Hou van je"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "别管我",
+            "translation": "Laat me met rust!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "救命啊！",
+            "translation": "Help!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "停下",
+            "translation": "Stop"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "生日快乐",
+            "translation": "Fijne verjaardag!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "恭喜",
+            "translation": "Gefeliciteerd"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "这个用中文怎么说",
+            "translation": "Hoe zeg je dit in het Chinees?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "叫警察",
+            "translation": "Bel de politie"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "你做什么样的工作？",
+            "translation": "Wat voor werk doe je?"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "好搞笑",
+            "translation": "Dit is hilarisch! /\nZo grappig!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "新春快乐",
+            "translation": "Gelukkig Chinees nieuwjaar!"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "等一下",
+            "translation": "Wacht even. /\nMomentje."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "结账，谢谢。",
+            "translation": "De rekening alstublieft. Dankuwel."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "我要",
+            "translation": "Ik wil...."
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "一瓶啤酒",
+            "translation": "Een biertje"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "一杯咖啡",
+            "translation": "Een kopje koffie"
+        },
+        {
+            "mode": "read",
+            "translationVisible": false,
+            "rank": 0,
+            "source": "一瓶水",
+            "translation": "Een fles water"
+        }
+    ],
+
+    "wordlist": [{
+            "mode": "read",
+            "rank": 0,
+            "source": "你好！",
+            "translation": "Hallo!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "早上好！",
+            "translation": "Goedemorgen!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "晚上好",
+            "translation": "Goedenavond"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "你好吗？",
+            "translation": "Hoe gaat het?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我很好",
+            "translation": "Met mij gaat het goed"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "你吃了吗？",
+            "translation": "Heb je al gegeten?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "吃了",
+            "translation": "Ik heb al gegeten"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "你呢",
+            "translation": "En jij?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "欢迎",
+            "translation": "Welkom"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "很改姓见到你",
+            "translation": "Aangenaam kennis te maken"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "谢谢",
+            "translation": "Dankje / Dankjewel "
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "不客气",
+            "translation": "Geen probleem"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "请",
+            "translation": "Alsjeblieft"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "请问",
+            "translation": "Pardon?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "抱歉",
+            "translation": "Sorry"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "对不起",
+            "translation": "Het spijt me"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "没关系",
+            "translation": "Geen probleem"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "不好意思",
+            "translation": "Excuseer"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "结果一下",
+            "translation": "Excuseer mij alstublieft"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "再见",
+            "translation": "Tot ziens"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "晚安",
+            "translation": "Goede nacht"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "回头见",
+            "translation": "Zie je later!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "祝您有个美好的一天！",
+            "translation": "Fijne dag!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "周末愉快",
+            "translation": "Fijn weekend!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "保持联系",
+            "translation": "In contact blijven"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "一路顺风",
+            "translation": "Fijne reis"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "慢走",
+            "translation": "Zorg goed voor jezelf"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我叫 Marleen，你呢？",
+            "translation": "Mijn naam is Marleen. Hoe heet jij?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "怎么称呼？",
+            "translation": "Wat is je naam?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "请问您贵姓？",
+            "translation": "Wat is je familienaam?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我不会说中文",
+            "translation": "Ik spreek geen Chinees."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "你会说英语吗？",
+            "translation": "Spreek je engels?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我会说一点中文",
+            "translation": "Ik spreek een klein beetje Chinees."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "请说慢一点",
+            "translation": "Wil je wat langzamer spreken alsjeblieft."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "倾泻下来",
+            "translation": "Kun je het alsjeblieft opschrijven?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "请你再说一遍好吗？",
+            "translation": "Kun je het herhalen?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我明白",
+            "translation": "Ik snap het."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我不明白",
+            "translation": "Ik snap het niet."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我不知道",
+            "translation": "Ik weet het niet."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我知道",
+            "translation": "Ik weet het."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "什么意思？",
+            "translation": "Wat bedoel je?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "入口",
+            "translation": "Entree / ingang"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "出口",
+            "translation": "Uitgang"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "紧急出口",
+            "translation": "Nooduitgang "
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "推",
+            "translation": "Duwen"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "拉",
+            "translation": "Trekken"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "厕所",
+            "translation": "Toiletten"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "空的",
+            "translation": "Leeg"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "禁止吸烟",
+            "translation": "Niet roken."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "打折",
+            "translation": "Korting / afgeprijsd\n"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "促销",
+            "translation": "Promotie"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "买一送一",
+            "translation": "Twee halen, een betalen"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "对 ",
+            "translation": "Ja"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "不 ",
+            "translation": "Nee"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "也许吧",
+            "translation": "Misschien"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "请问，厕所在哪里？",
+            "translation": "Pardon, waar is het toilet?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "多少？",
+            "translation": "Hoe veel?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "太贵了",
+            "translation": "Te duur"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "便宜点",
+            "translation": "Maak het goedkoper"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "你是本地人吗？",
+            "translation": "Ben je lokaal?\nKom je hier vandaan?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我从。。。来",
+            "translation": "Ik kom uit ..."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "你经常来着吗",
+            "translation": "Kom je hier vaker?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我会想念你的",
+            "translation": "Ik mis je"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我爱你",
+            "translation": "Hou van je"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "别管我",
+            "translation": "Laat me met rust!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "救命啊！",
+            "translation": "Help!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "停下",
+            "translation": "Stop"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "生日快乐",
+            "translation": "Fijne verjaardag!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "恭喜",
+            "translation": "Gefeliciteerd"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "这个用中文怎么说",
+            "translation": "Hoe zeg je dit in het Chinees?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "叫警察",
+            "translation": "Bel de politie"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "你做什么样的工作？",
+            "translation": "Wat voor werk doe je?"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "好搞笑",
+            "translation": "Dit is hilarisch! /\nZo grappig!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "新春快乐",
+            "translation": "Gelukkig Chinees nieuwjaar!"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "等一下",
+            "translation": "Wacht even. /\nMomentje."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "结账，谢谢。",
+            "translation": "De rekening alstublieft. Dankuwel."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "我要",
+            "translation": "Ik wil...."
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "一瓶啤酒",
+            "translation": "Een biertje"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "一杯咖啡",
+            "translation": "Een kopje koffie"
+        },
+        {
+            "mode": "read",
+            "rank": 0,
+            "source": "一瓶水",
+            "translation": "Een fles water"
+        }
+    ]
+}

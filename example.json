@@ -1,0 +1,23 @@
+{
+    "flashcard": [{
+            "source": "你好",
+            "translation": "Hello"
+        },
+        {
+            "source": "你好吗？",
+            "translation": "How are you?"
+        },
+        {
+            "source": "我很好你呢？",
+            "translation": "I'm good, how about you?"
+        },
+        {
+            "source": "我很好，谢谢！",
+            "translation": "I´m good thanks!"
+        },
+        {
+            "source": "再见！",
+            "translation": "Goodbye！"
+        }
+    ]
+}
