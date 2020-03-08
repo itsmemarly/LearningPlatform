@@ -6,6 +6,8 @@
             <ul class="nav navbar-nav">
                 <li class="active w3-center"><a href="home.php">HOME</a></li>
                 <li class="w3-center"><a href="downloads.php">DOWNLOADS</a></li>
+                <li class="w3-center"><a href="uploads.php">UPLOAD FILES</a></li>
+                <li class="w3-center"><a href="downloadlist.php">DOWNLOADLIST</a></li>
                 <!-- <li class="w3-center">
                     <a href="./login.html">LOGOUT</a></li> -->
             </ul>

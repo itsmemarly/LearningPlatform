@@ -1,0 +1,44 @@
+{
+	"flashcard": [
+		{
+			"mode": "read",
+			"translationVisible": false,
+			"rank": 0,
+			"source": "test",
+			"translation": "TEST"
+		},
+		{
+			"mode": "read",
+			"translationVisible": false,
+			"rank": 0,
+			"source": "hoi",
+			"translation": "HALLO"
+		}
+	],
+	"wordlist": [
+		{
+			"mode": "read",
+			"rank": 0,
+			"source": "test2",
+			"translation": "ja2"
+		},
+		{
+			"mode": "read",
+			"rank": 0,
+			"source": "test",
+			"translation": "ja"
+		},
+		{
+			"mode": "read",
+			"rank": 2,
+			"source": "yup",
+			"translation": "yup2"
+		},
+		{
+			"mode": "read",
+			"rank": 2,
+			"source": "help",
+			"translation": "help2"
+		}
+	]
+}
