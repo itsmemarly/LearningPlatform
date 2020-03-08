@@ -17,7 +17,7 @@ console.log('loaded');
 
 function logout() {
     alert("You are now logged out.");
-    location.href = 'logout.php';
+    location.href = '../logout.php';
 }
 
 function resetTimer() {

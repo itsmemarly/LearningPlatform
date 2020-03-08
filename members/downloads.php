@@ -16,8 +16,8 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
 
-<script src="index.js"></script>
-<link rel="stylesheet" href="index.css">
+<script src="../index.js"></script>
+<link rel="stylesheet" href="../index.css">
     </head>
 
     
@@ -27,7 +27,7 @@ include 'header.php';
 // session_start();
 // If the user is not logged in redirect to the login page...
 if (!isset($_SESSION['loggedin'])) {
-	header('Location: index.html');
+	header('Location: ../index.php');
 	exit();
 }
 ?>

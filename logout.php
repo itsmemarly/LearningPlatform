@@ -6,5 +6,5 @@
  {
  $url .= "?session_expired=" . $_GET["session_expired"];
  }
- header("Location: index.html");
+ header("Location: index.php");
 ?>
